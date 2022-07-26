@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+	<TITLE>Welcome to CSS</TITLE>
+	<link rel="stylesheet" href="css/Ex5_style.css">
+</HEAD>
+<BODY>
+<p>This is what is displayed.</p>
+<h2 style="color:red;"> testing CSS </h2>
+</BODY>
+</HTML>

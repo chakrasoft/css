@@ -1,0 +1,8 @@
+<HTML>
+<HEAD>
+<TITLE>Welcome to CSS</TITLE>
+</HEAD>
+<BODY>
+<p style="color:red;">	This is what is displayed.</p>
+</BODY>
+</HTML>

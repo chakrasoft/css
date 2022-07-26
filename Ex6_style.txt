@@ -1,0 +1,6 @@
+h2{
+	color:rgb(187,160,175);
+  }
+p{
+	background-color:800080;
+ }

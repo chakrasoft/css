@@ -1,0 +1,14 @@
+<HTML>
+<HEAD>
+	<TITLE>Welcome to CSS</TITLE>
+	<link rel="stylesheet" href="D:/Office/Django/Rk/Css/Ex6_style.css"/>
+</HEAD>
+<BODY>
+<p>Chakra IT Solutions in Hyderabad is one of the leading businesses 
+in the Computer Training Institutes For SAS, Tableau, Power BI, Python, 
+Computer Training Institutes For Data Science, 
+Computer Training Institutes For Azure Devops, Amazon Web Services. </p>
+<h2> chakra testing CSS1 </h2>
+<h2> Chakra testing CSS2 </h2>
+</BODY>
+</HTML>

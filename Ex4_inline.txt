@@ -1,0 +1,14 @@
+<HTML>
+<HEAD>
+	<TITLE>Welcome to CSS</TITLE>
+	<style type"text/css">
+		h2{
+			color:yellow;
+		  }
+	</style>
+</HEAD>
+<BODY>
+<p>This is what is displayed.</p>
+<h2 style="color:red;"> testing CSS </h2>
+</BODY>
+</HTML>
